@@ -1,7 +1,7 @@
 # BOYOPS
 
 >[!IMPORTANT]
->Building my own optimization solver of BOYOPS, Boyogala's optimization solver.
+>Building my own optimization solver of BOYOPS, BOYogala's OPtimization Solver.
 
 The idea originates at this very moment; 
 > remember this timestamp: 4:44 PM on October 1, 2026.
