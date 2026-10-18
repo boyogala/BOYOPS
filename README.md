@@ -17,7 +17,7 @@ I have named it **BOYOPS**, colloquially referred to as `BOY's OPtimization Solv
 ---
 
 >[!IMPORTANT]
->Every endeavor must have a beginning, even if it is merely an inception of an idea; let us therefore commence from this very point.
+>let us therefore commence from this very point.
 
 ---
 
