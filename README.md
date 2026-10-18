@@ -13,11 +13,7 @@ I am embarking on a simultaneous journey of learning the C programming language,
 >Step by step, with the assistance of AI programming tools, I strive to realize my vision of creating a custom optimization solver.
 
 I have named it **BOYOPS**, colloquially referred to as `BOY's OPtimization Solver`.
-
----
-
->[!IMPORTANT]
->let us therefore commence from this very point.
+ 
 
 ---
 
