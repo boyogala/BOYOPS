@@ -2,7 +2,7 @@
 >[!IMPORTANT]
 >Everyone engaged in optimization theory and algorithms should possess their own optimization solver.
 
-The idea originates at this very moment: remember this timestamp: `4:44 PM on October 1, 2026`.
+The idea originates at this very moment: remember this timestamp: `4:44 PM on October 18, 2026`.
 
 >[!TIP]
 >Building my own optimization solver of BOYOPS, abbreviation for `BOYogala's OPtimization Solver`.
