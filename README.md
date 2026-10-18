@@ -12,7 +12,7 @@ I am embarking on a simultaneous journey of learning the C programming language,
 
 >Step by step, with the assistance of AI programming tools, I strive to realize my vision of creating a custom optimization solver.
 
-I have named it BOYOPS (BOYogala's OPtimization Solver), colloquially referred to as the "BOY's OPtimization Solver."
+I have named it **BOYOPS**, abbreviation for `BOYogala's OPtimization Solver`, colloquially referred to as `BOY's Optimization Solver`.
 
 ---
 
