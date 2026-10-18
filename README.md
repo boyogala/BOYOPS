@@ -1,6 +1,7 @@
 # BOYOPS
 
-==Everyone engaged in optimization theory and algorithms should possess their own optimization solver==
+<mark style="background-color: #4CAF50; color: white;">Everyone engaged in optimization theory and algorithms should possess their own optimization solver.</mark>
+
 
 >[!IMPORTANT]
 >Building my own optimization solver of BOYOPS, BOYogala's OPtimization Solver.
