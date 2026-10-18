@@ -1,5 +1,7 @@
 # BOYOPS
 
+==Everyone engaged in optimization theory and algorithms should possess their own optimization solver.==
+
 >[!IMPORTANT]
 >Building my own optimization solver of BOYOPS, BOYogala's OPtimization Solver.
 
