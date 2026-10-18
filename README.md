@@ -1,6 +1,6 @@
 # BOYOPS
 
-<mark style="background-color: #4CAF50; color: white;">Everyone engaged in optimization theory and algorithms should possess their own optimization solver.</mark>
+<mark style="background-color: #4CAF50; color: green;">Everyone engaged in optimization theory and algorithms should possess their own optimization solver.</mark>
 
 
 >[!IMPORTANT]
